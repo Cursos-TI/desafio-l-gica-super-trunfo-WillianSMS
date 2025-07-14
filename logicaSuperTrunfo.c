@@ -166,10 +166,9 @@ int main(){
 		printf("Para que não haja complicações no código do jogo.\n");
 		printf("Se os jogares escolher mesmo atributo o jogo não proseguirá e deverá ser reiniciado.\n");
 		printf("Os resultados seram dados como 1 e 0, para identificar qual venceu.\n");
-		printf("se o resultado1 e resultado2 der 1, sera dado como vitória.\n");
+		printf("se o resultado1 e o resultado2 der 1, sera dado como vitória.\n");
 		printf("se o resultado1 e o resultado2 for diferentes, sera dado como empate.\n");
-		printf("No final haverá uma pontuação extra onde será a soma de todos os atributos.\n");
-		printf("se o não for nenhum dos dois será dado como derrota.\n");
+		printf("se o resultado1 e o resultado2 der 0 será dado como derrota.\n");
 		printf("não será usado valores gerado por computador, séra usado apenas os valores dados no inicio da programação.\n");
 		
 		break;
